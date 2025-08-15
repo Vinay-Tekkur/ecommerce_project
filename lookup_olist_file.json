@@ -1,0 +1,30 @@
+[
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_customers_dataset.csv",
+	"file_name":"olist_customers_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_geolocation_dataset.csv",
+	"file_name":"olist_geolocation_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_order_items_dataset.csv",
+	"file_name":"olist_order_items_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_order_payments_dataset.csv",
+	"file_name":"olist_order_payments_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_order_reviews_dataset.csv",
+	"file_name":"olist_order_reviews_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_products_dataset.csv",
+	"file_name":"olist_products_dataset.csv"
+},
+{
+	"olist_relative_url":"ecommerce_project/refs/heads/main/olist_sellers_dataset.csv",
+	"file_name":"olist_sellers_dataset.csv"
+}
+]
